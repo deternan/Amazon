@@ -3,8 +3,17 @@ package SimpleStorageService;
 /*
  * Reference
  * 
+ * resource
+ * https://aws.amazon.com/tw/transcribe/resources/
+ * 
+ * what-is-transcribe
+ * https://docs.aws.amazon.com/zh_tw/transcribe/latest/dg/what-is-transcribe.html
+ * 
  * Client region
  * https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-region-selection.html
+ * 
+ * Create bucket
+ * https://docs.aws.amazon.com/zh_tw/AmazonS3/latest/dev/create-bucket-get-location-example.html#create-bucket-get-location-console
  * 
  * Step by Step
  * https://aws.amazon.com/tw/getting-started/tutorials/create-audio-transcript-transcribe/
@@ -16,6 +25,7 @@ import java.io.IOException;
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.SdkClientException;
 import com.amazonaws.auth.profile.ProfileCredentialsProvider;
+import com.amazonaws.regions.Regions;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3ClientBuilder;
 import com.amazonaws.services.s3.model.CreateBucketRequest;
@@ -25,7 +35,9 @@ public class CreateBucket {
 
     public static void main(String[] args) throws IOException {
 //        String clientRegion = "*** Client region ***";
-        String bucketName = "*** Bucket name ***";
+//    	String bucketName = "*** Bucket name ***";
+    	String clientRegion = Regions.US_WEST_1.toString();
+        String bucketName = "NewBucket";
 
         try {
             AmazonS3 s3Client = AmazonS3ClientBuilder.standard()
