@@ -1,0 +1,1504 @@
+1. Speech recognition with microphone input.
+2. Speech recognition in the specified language.
+3. Speech recognition using customized model.
+4. Speech continuous recognition using events with file.
+5. Speech recognition with audio stream.
+6. Translation with microphone input.
+7. Translation with file input.
+8. Translation with audio stream.
+A. Intent recognition with microphone.
+B. Intent recognition with language.
+C. Intent continuous recognition using events with file.
+Your choice (0: Stop.): 7
+
+Start translation...
+
+Session started event.
+ TRANSLATING into 'zh-Hant'': 臺東
+ TRANSLATING into 'zh-Hant'': 臺 客
+ TRANSLATING into 'zh-Hant'': 凱 特 貝
+ TRANSLATING into 'zh-Hant'': 臺 客
+ TRANSLATING into 'zh-Hant'': 凱 特 琳 對話
+ TRANSLATING into 'zh-Hant'': 凱 特 貝
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上半身
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上班族
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐廳
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元 珀
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元 或許
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元 或許 佩岑
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元 或許 可以 存
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元 或許 可以 存 到
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元 或許 可以 存 到 一點
+ TRANSLATING into 'zh-Hant'': 凱 特 貝 很多 上 半 枝 梅 餐 吃 不 超過 一百 元 或許 可以 存 到 一點 錢
+ TRANSLATING into 'zh-Hant'': 大
+ TRANSLATING into 'zh-Hant'': 大 支
+ TRANSLATING into 'zh-Hant'': 戴 自
+ TRANSLATING into 'zh-Hant'': 再次
+ TRANSLATING into 'zh-Hant'': 來自 臺灣
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 蔡
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美 斯 樂
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 說 剛 除 痘
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 豆
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 豆 瓣
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月底
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 資
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 瓷
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 瓷 冠
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 瓷 冠 綸
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 瓷 冠 光 之
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 策略
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 吃
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的 便宜
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的 便宜 一年
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的 便宜 一年四季
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的 便宜 一年
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的 便宜 一年 十年
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的 便宜 一年 十年 價錢
+ TRANSLATING into 'zh-Hant'': 來自 臺灣 太多 美食 了 很多 月光 族 都 把 每個 月 的 全 是 觀光 次 的 便宜 一年 十年 加 起來
+ TRANSLATING into 'zh-Hant'': 那個
+ TRANSLATING into 'zh-Hant'': 那英
+ TRANSLATING into 'zh-Hant'': 那個
+ TRANSLATING into 'zh-Hant'': 那個 醫生
+ TRANSLATING into 'zh-Hant'': 可以 伸懶腰
+ TRANSLATING into 'zh-Hant'': 那個 醫生 百 度
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團 每年 職棒
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團 每年
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團 每年 辭官
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團 每年 辭官 一百
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團 每年 辭官 一百 元
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團 每年 辭官 一百 元 多
+ TRANSLATING into 'zh-Hant'': 可以 上網 多久 更 集團 每年 辭官 一百 多
+ TRANSLATING into 'zh-Hant'': 免費
+ TRANSLATING into 'zh-Hant'': 聯發
+ TRANSLATING into 'zh-Hant'': 免費
+ TRANSLATING into 'zh-Hant'': 免費 註冊
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 配置單位
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 被 刺 到
+ TRANSLATING into 'zh-Hant'': 免費 註冊 不 包 配飾
+ TRANSLATING into 'zh-Hant'': 免費 註冊 不 包 配飾 大王
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 玩
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 中文
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 正反 面
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 眾人 面前
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 眾人 面前 一萬 五
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 物資
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 物資
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上京
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 精靈
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的 事
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的 是
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的 赤裸
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的 是 羅 伯
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的 赤裸
+ TRANSLATING into 'zh-Hant'': 麵粉 做 吃不飽 沛 慈 大 碗 的 皺紋 麵線 一 晚 路 四 段 上 今天 想 吃 的 是 羅 版本
+ TRANSLATING into 'zh-Hant'': 打
+ TRANSLATING into 'zh-Hant'': 加油站
+ TRANSLATING into 'zh-Hant'': 打
+ TRANSLATING into 'zh-Hant'': 打 給
+ TRANSLATING into 'zh-Hant'': 打 給 莊
+ TRANSLATING into 'zh-Hant'': 打 給 張
+ TRANSLATING into 'zh-Hant'': 打 給 基準
+ TRANSLATING into 'zh-Hant'': 打 給 張
+ TRANSLATING into 'zh-Hant'': 打 給 張 發
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 製藥
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 只要
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 只要 比價
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 玩具
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 民
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 玩具
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 只要 四 大文 具 明
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 玩具 精品 算盤
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北 西門
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北 西門町
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北 西門町 登入
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北 西門町 的
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北 西門町 牛肉麵
+ TRANSLATING into 'zh-Hant'': 打 給 張 八十 公斤 男生 要 出嫁 完 就 沒 穿 臺北 西門町 的 路邊攤
+ TRANSLATING into 'zh-Hant'': 最佳
+ TRANSLATING into 'zh-Hant'': 最佳 綠豆
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈
+ TRANSLATING into 'zh-Hant'': 最佳 綠 登入
+ TRANSLATING into 'zh-Hant'': 最佳 律 德
+ TRANSLATING into 'zh-Hant'': 最佳 綠 的 女孩
+ TRANSLATING into 'zh-Hant'': 最佳 綠豆 露 臺
+ TRANSLATING into 'zh-Hant'': 最佳 綠 的 女孩
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛澤東
+ TRANSLATING into 'zh-Hant'': 最佳 綠豆 綠 海 毛織
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證照
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 鄭
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來 去 吃一
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來 騎士 一
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來 去 吃一 根
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來 去 吃一 個 忙
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來 去 吃一 根
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來 去 吃一 個 忙 貴 的
+ TRANSLATING into 'zh-Hant'': 最佳 綠燈 女孩 毛 知本 每天 喝 咖啡 證 加 起來 去 吃一 個 忙 貴 的 習慣
+ TRANSLATING into 'zh-Hant'': 白河
+ TRANSLATING into 'zh-Hant'': 開會
+ TRANSLATING into 'zh-Hant'': 然後
+ TRANSLATING into 'zh-Hant'': 臺 好友
+ TRANSLATING into 'zh-Hant'': 白河 郵局
+ TRANSLATING into 'zh-Hant'': 白河
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個
+ TRANSLATING into 'zh-Hant'': 還有 一個
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 的
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他們
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他們 都
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他們 都是
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他們 都是 熱量
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他們 都是 熱
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他們 都是 熱 的
+ TRANSLATING into 'zh-Hant'': 然後 有 幾個 相同 點 就是 他們 都是 熱 的 議題
+ TRANSLATING into 'zh-Hant'': 找
+ TRANSLATING into 'zh-Hant'': 找 不同
+ TRANSLATING into 'zh-Hant'': 找 不
+ TRANSLATING into 'zh-Hant'': 找 不同
+ TRANSLATING into 'zh-Hant'': 找 不懂 究
+ TRANSLATING into 'zh-Hant'': 找 不同
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 環 傳
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 放在 課業
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃 小
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨蛋
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃 小 笨 霖
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 人
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 女人
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 臉
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 臉 書
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 由於
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 由於
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 由於 不見
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 電話
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 的
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 了 又 吃
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 了 又 吃 的
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 了 又 吃 的不
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 了 又 吃 的不 過
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 了 又 吃 得 不夠
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 了 又 吃 的不 夠
+ TRANSLATING into 'zh-Hant'': 找 不同 就是這樣 晚上 可以 吃香 笨 的 鹽酥雞 但是 游泳 部 健康 健康 了 又 吃 的不 夠 版
+ TRANSLATING into 'zh-Hant'': 內
+ TRANSLATING into 'zh-Hant'': 讓我
+ TRANSLATING into 'zh-Hant'': 讓我 罩
+ TRANSLATING into 'zh-Hant'': 讓我
+ TRANSLATING into 'zh-Hant'': 那 我 當然
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 還
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 視
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 四
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買賣
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 個
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 個 媳婦
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 自行車 衣
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 自行車 衣 錠
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定 泰
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定 泰
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定 泰 潰
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定 太快
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定 太 貴 了
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定 太 貴 了 再見
+ TRANSLATING into 'zh-Hant'': 那 我 當然 想要 跟 我 老婆 孩子 吃飯 看 吉他 買 的 身材 一定 太 貴 了 再見 盒
+ TRANSLATING into 'zh-Hant'': 尋找
+ TRANSLATING into 'zh-Hant'': 你
+ TRANSLATING into 'zh-Hant'': 尋找 到
+ TRANSLATING into 'zh-Hant'': 尋找 造
+ TRANSLATING into 'zh-Hant'': 尋找 到
+ TRANSLATING into 'zh-Hant'': 尋找 到 秀
+ TRANSLATING into 'zh-Hant'': 尋找 到
+ TRANSLATING into 'zh-Hant'': 尋找 到 右
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 見
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 事
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 市場
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 身材
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 彩券
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 食 材
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新 座椅
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新 座椅
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新 這一 定
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新 最低 利率
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新 這一 定 力量
+ TRANSLATING into 'zh-Hant'': 尋找 趙 又 平 又 健康 的 是 全新 這一 定 力量 玩
+ TRANSLATING into 'zh-Hant'': 開眼
+ TRANSLATING into 'zh-Hant'': 我
+ TRANSLATING into 'zh-Hant'': 我 買
+ TRANSLATING into 'zh-Hant'': 我 買 泡
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 排名
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 排行
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 還有
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 還有 妳
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 還有 妳 不是
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 還有 妳
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 還有 你不 能 吃 的
+ TRANSLATING into 'zh-Hant'': 我 買 泡麵 還有 你不 能 吃 的 東西
+ TRANSLATING into 'zh-Hant'': 白癡
+ TRANSLATING into 'zh-Hant'': 鋼 之
+ TRANSLATING into 'zh-Hant'': 鋼 之 鍊
+ TRANSLATING into 'zh-Hant'': 鋼 之
+ TRANSLATING into 'zh-Hant'': 鋼 之 林
+ TRANSLATING into 'zh-Hant'': 鋼 之 林 民
+ TRANSLATING into 'zh-Hant'': 大直 林
+ TRANSLATING into 'zh-Hant'': 大直 林 明德
+ TRANSLATING into 'zh-Hant'': 我要
+ TRANSLATING into 'zh-Hant'': 臉
+ TRANSLATING into 'zh-Hant'': 臉 書
+ TRANSLATING into 'zh-Hant'': 銀行
+ TRANSLATING into 'zh-Hant'': 你好
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一滴
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點 都
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點 資訊
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點 資訊 月
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點 資訊 月 還有 在
+ TRANSLATING into 'zh-Hant'': 您好 這裡 可以 給 我 一點 資訊 月 還有 在 哪
+ TRANSLATING into 'zh-Hant'': 磁碟
+ TRANSLATING into 'zh-Hant'': 磁碟 程式
+ TRANSLATING into 'zh-Hant'': 權
+ TRANSLATING into 'zh-Hant'': 磁碟 程式
+ TRANSLATING into 'zh-Hant'': 全職 媽媽
+ TRANSLATING into 'zh-Hant'': 磁碟 程式
+ TRANSLATING into 'zh-Hant'': 諾基亞
+ TRANSLATING into 'zh-Hant'': 目前
+ TRANSLATING into 'zh-Hant'': 目前 的
+ TRANSLATING into 'zh-Hant'': 目前 的 事
+ TRANSLATING into 'zh-Hant'': 目前 的
+ TRANSLATING into 'zh-Hant'': 目前 的 事
+ TRANSLATING into 'zh-Hant'': 目前 的 視覺
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得
+ TRANSLATING into 'zh-Hant'': 目前 南 勢 角 的
+ TRANSLATING into 'zh-Hant'': 目前 的 視覺 的 翅膀
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 死
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 愛
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 阿
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 而 上
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 二 巷
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 點
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩地
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 比分
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 那種
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 多
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了 快要
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了 會
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了 快 易 購
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了 快 易
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了 快 易 通
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了 會 一
+ TRANSLATING into 'zh-Hant'': 目前 的 是 覺得 是 不夠 晚上 昨天 我 每天 都會 兩 體重 納 昨天 點 了 會 一 公斤
+ TRANSLATING into 'zh-Hant'': 在
+ TRANSLATING into 'zh-Hant'': 肯德基
+ TRANSLATING into 'zh-Hant'': 在 可能 是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好吃
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處
+ TRANSLATING into 'zh-Hant'': 在 可能 是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好 做
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這種
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 隻
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 隻 是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 隊
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 一切
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 一切 超市
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 要 去 超市 買
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 要 去 超市 買 不可
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 要 去 超市 買 book
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 要 去 超市 買 book 買
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 要 去 超市 買 book
+ TRANSLATING into 'zh-Hant'': 在 可能 是 好處 但是 這 只是 對 我 來說 了 那是 不是 要 去 超市 買 book 買
+ TRANSLATING into 'zh-Hant'': 兩個
+ TRANSLATING into 'zh-Hant'': 江蕙
+ TRANSLATING into 'zh-Hant'': 養生 會館
+ TRANSLATING into 'zh-Hant'': 趕快
+ TRANSLATING into 'zh-Hant'': 趕快 趕快
+ TRANSLATING into 'zh-Hant'': 兩個 會 改善
+ TRANSLATING into 'zh-Hant'': 兩個 會 改善 這個
+ TRANSLATING into 'zh-Hant'': 兩個 會 改善 這個 是
+ TRANSLATING into 'zh-Hant'': 兩個 會 改善 這個 是 不夠
+ TRANSLATING into 'zh-Hant'': 兩個 會 改善 這個 是 不夠 童裝
+ TRANSLATING into 'zh-Hant'': 兩個 會 改善 這個 是 不夠 的
+ TRANSLATING into 'zh-Hant'': 兩個 會 改善 這個 是 不夠 的 狀況
+ TRANSLATING into 'zh-Hant'': 最
+ TRANSLATING into 'zh-Hant'': 最 五
+ TRANSLATING into 'zh-Hant'': 最
+ TRANSLATING into 'zh-Hant'': 最 我們
+ TRANSLATING into 'zh-Hant'': 最 我們 在
+ TRANSLATING into 'zh-Hant'': 最 我們
+ TRANSLATING into 'zh-Hant'': 最 我們 在
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 村
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 莊 飯店
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 自由
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 自由
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 零
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 零 一
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 零 一 三
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 吉他
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 吉他 譜
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 吉他
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都是
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 周
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都 試吃
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都是 吃
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 壽司 吃 了
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 壽司 吃 了 三
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都 試吃
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都是 吃 兩
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都是 吃 兩 三百
+ TRANSLATING into 'zh-Hant'': 最 我們 在 四月 天 你是 上班族 理想 存錢 中飯 只有 一百 塊 氯 酸 鈉 其他 朋友 都是 吃 兩 三百 塊
+ TRANSLATING into 'zh-Hant'': 你
+ TRANSLATING into 'zh-Hant'': 你 很
+ TRANSLATING into 'zh-Hant'': 你 很難
+ TRANSLATING into 'zh-Hant'': 你 很
+ TRANSLATING into 'zh-Hant'': 你 很難
+ TRANSLATING into 'zh-Hant'': 你 很難 打
+ TRANSLATING into 'zh-Hant'': 你 很難
+ TRANSLATING into 'zh-Hant'': 你 很難 大道
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 路
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 二
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 二 段
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯店
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯 之
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 范 植
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 范 直 營
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 門診
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 文中
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 門診
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 文中
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 監理
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 簡歷
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 監理
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 監理 機關
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新 關係
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新 關係 找到
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新 關係 找到 新的
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新 關係 找到 新的 北 士商
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新 關係 找到 新的
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新 關係 找到 新的 北市 三芝
+ TRANSLATING into 'zh-Hant'': 你 很難 打 到 你的 目標 當然 飯局 也 們 重來 給 建立 新 關係 找到 新的 北市 紗布 巾 日曆
+ TRANSLATING into 'zh-Hant'': 撥打
+ TRANSLATING into 'zh-Hant'': 打
+ TRANSLATING into 'zh-Hant'': 打 蛋糕
+ TRANSLATING into 'zh-Hant'': 打 到 公司
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 我
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 我 剛
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 我
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 我 剛 的
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 四 一
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃醋
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 她
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們 掙
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們 李
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們 李 毓芬
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們 李 玉 川
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們 執意 蒜頭
+ TRANSLATING into 'zh-Hant'': 打 到 公司 負責人 昨天 有 破 功 的 原因 是 因為 我 跟我 家人 吃飯 他們 執意 蒜頭 鼻
+ TRANSLATING into 'zh-Hant'': 讓我
+ TRANSLATING into 'zh-Hant'': 讓我 覺得
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 的
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 之
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 競爭力
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是 一
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是 一個人
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 必
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避孕套
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 大貨車
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他 獲得
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他 和 等於零
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他 和 等
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他 和 等 一下
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他 獲得 音響
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他 和 人相 當
+ TRANSLATING into 'zh-Hant'': 讓我 覺得 煩 靜 真的 是一個 大林 巷 如何 克服 環境 的 問題 只有 避免 他 和 人相 當 朋友
+ TRANSLATING into 'zh-Hant'': 短信
+ TRANSLATING into 'zh-Hant'': 學習
+ TRANSLATING into 'zh-Hant'': 關西
+ TRANSLATING into 'zh-Hant'': 學習
+ TRANSLATING into 'zh-Hant'': 開啟
+ TRANSLATING into 'zh-Hant'': 開啟 地圖
+ TRANSLATING into 'zh-Hant'': 關西 中華 你
+ TRANSLATING into 'zh-Hant'': 關西 中華 你 這樣
+ TRANSLATING into 'zh-Hant'': 學習 的 華麗 教室
+ TRANSLATING into 'zh-Hant'': 關西 中華 你 就要
+ TRANSLATING into 'zh-Hant'': 關西 中華 你 這 要 吃飯
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂
+ TRANSLATING into 'zh-Hant'': 關西 中華 你 只要 是 換 濾
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 筆記本
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 鵬
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 成語
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 參與感
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之 淚
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 簡單
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 收入
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友 和
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友 會
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友 會 痛
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友 會 疼痛
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友 或 同行
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友 會 痛 是
+ TRANSLATING into 'zh-Hant'': 關西 中華民國 藥師 灌頂 鼻 龜 彭 于 才 甘 愿 之類 的 人 簡單 瘦 如果 你的 朋友 或 同行
+ TRANSLATING into 'zh-Hant'': 綠光
+ TRANSLATING into 'zh-Hant'': 月光 族
+ TRANSLATING into 'zh-Hant'': 月光 族 之
+ TRANSLATING into 'zh-Hant'': 月光 族 帝國
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很 爛
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很 南
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 催
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很 南 屯 老街
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 特
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 特 蒙
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 特
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 斯 基
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百 塊
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百 零 一年 就是
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百 零 一年 就是 三
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百 零 一年 就是
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百 零 一年 就是 三萬
+ TRANSLATING into 'zh-Hant'': 月光 族 的話 你 很難 存 到 錢 的 每一天 都 喜歡 喝 咖啡 一杯 是 一百 零 一年 就是 三灣
+ TRANSLATING into 'zh-Hant'': 如果
+ TRANSLATING into 'zh-Hant'': 如果 您
+ TRANSLATING into 'zh-Hant'': 如果 你
+ TRANSLATING into 'zh-Hant'': 如果 你 把
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 全
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 拳頭
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 進去
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 靜 之
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 進去 一
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 進 制 衣
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 訂製
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 住
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 戶 利率
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 護理 歷史
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資理財
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 斯
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那些
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那些 年
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 斯
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年 後
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年 後 你
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年 後 你 至少
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年 後 你 至少 可以
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年 後 你 至少 可以 轉
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年 後 你 至少 可以 傳
+ TRANSLATING into 'zh-Hant'': 如果 你 把 那些 錢 投資 禁止 一個 富麗 利息 的 投資 裡面 那 十年 後 你 至少 可以 賺 到
+ TRANSLATING into 'zh-Hant'': 五
+ TRANSLATING into 'zh-Hant'': 五十
+ TRANSLATING into 'zh-Hant'': 五十 萬
+ TRANSLATING into 'zh-Hant'': 五十 萬 鋼
+ TRANSLATING into 'zh-Hant'': 五十 萬 湯
+ TRANSLATING into 'zh-Hant'': 五十 萬 川
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯
+ TRANSLATING into 'zh-Hant'': 五十 萬 唐 唐
+ TRANSLATING into 'zh-Hant'': 五十 萬 唐 唐 立
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 拓哉
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 臭豆腐
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 拖 地
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 拖 地 服務
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 負 利率
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富麗
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富麗 利息
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 利 旅行社
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富麗 例行
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富麗 例行 賽
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三 四
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三 視
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三 世泰
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 中醫
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 登入
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想 跟
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想 更
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想 更 寮國
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想 更 寮 腳
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想 更 寮 電話
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想 跟 聊天
+ TRANSLATING into 'zh-Hant'': 五十 萬 川 湯 麗水 兔子 富 立 力行 三世 太 重要 的 如果 你 想 更 寮 電話
+ TRANSLATING into 'zh-Hant'': 一
+ TRANSLATING into 'zh-Hant'': 美麗華
+ TRANSLATING into 'zh-Hant'': 你
+ TRANSLATING into 'zh-Hant'': 米糕
+ TRANSLATING into 'zh-Hant'': 迷你 格鬥
+ TRANSLATING into 'zh-Hant'': 你到
+ TRANSLATING into 'zh-Hant'': 美麗島 咖哩
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 拿到
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 掉
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 政治大學
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 甚至可以
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 漂亮
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票價
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票價
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票 聯 全
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 漂亮 歐
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 漂亮
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票 聯 全 區
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票 聯 全 區 freetalk
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 漂亮 寶貝
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票 聯 全 區 北 桃園
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票 聯 全 區 北 桃園 百貨
+ TRANSLATING into 'zh-Hant'': 美麗 康 康 離開 了 沒 毛 打 一支 釣 筍 雞湯 票 聯 全 區 北 桃園 百貨 地址
+ TRANSLATING into 'zh-Hant'': 打
+ TRANSLATING into 'zh-Hant'': 鄭
+ TRANSLATING into 'zh-Hant'': 陳 家頤
+ TRANSLATING into 'zh-Hant'': 嘉義市
+ TRANSLATING into 'zh-Hant'': 鄭 佳 甄
+ TRANSLATING into 'zh-Hant'': 增加 一個
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 地址
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 地址 變更
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 地址
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 地址 變更
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 地址 變造
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 地址 變造 一邊
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 找 一個 便當
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 部 立
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四季
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四千
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 食
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四 賤
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四千 塊
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四千 塊 一年
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四千 塊 一年 就可以
+ TRANSLATING into 'zh-Hant'': 增加 一個 增加 好像 一個 雪球 鼻子 變 造 一級 變大 護理 每個 月 村 四千 塊 一年 就可以 存檔
+ TRANSLATING into 'zh-Hant'': 搞
+ TRANSLATING into 'zh-Hant'': 老
+ TRANSLATING into 'zh-Hant'': 瓦斯爐
+ TRANSLATING into 'zh-Hant'': 二 四
+ TRANSLATING into 'zh-Hant'': 找 絲襪
+ TRANSLATING into 'zh-Hant'': 老 四萬
+ TRANSLATING into 'zh-Hant'': 老 四萬 八
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 十八 人力
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就要
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就 優 酷
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 福
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 五萬
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就 由 戲 玩
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就 由 戲 玩 兩地
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩 千
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩 千 八
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩 千 八百
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩 千 八百 元
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩 千 八百 元 計算
+ TRANSLATING into 'zh-Hant'': 老 四萬 巴馬 就職 四十八 零 一年 之後 就有 萬 兩 千 八百 元 計算 十年 後 就可以
+ TRANSLATING into 'zh-Hant'': 請問
+ TRANSLATING into 'zh-Hant'': 請問 你
+ TRANSLATING into 'zh-Hant'': 請問
+ TRANSLATING into 'zh-Hant'': 請問 你 要
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理局
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 器
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 辦理
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 辦理 計算
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 嫻
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 現在 在 思念
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 嫻
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 現在 在 思念 在
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 現在 在 思念 在 臺北市
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 現在 在 思念 在 臺北市政府
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 現在 在 思念 在 臺北市
+ TRANSLATING into 'zh-Hant'': 請問 你 要 的 參數 他 就 自動 管理 技術 發展 沒什麼 認為 是 小 現在 在 思念 在 臺北市 找到
+ TRANSLATING into 'zh-Hant'': 臉
+ TRANSLATING into 'zh-Hant'': 名產
+ TRANSLATING into 'zh-Hant'': 銘傳大學
+ TRANSLATING into 'zh-Hant'': 金山
+ TRANSLATING into 'zh-Hant'': 龍潭
+ TRANSLATING into 'zh-Hant'': 龍潭 外送
+ TRANSLATING into 'zh-Hant'': 龍潭 wise
+ TRANSLATING into 'zh-Hant'': 龍潭 外史
+ TRANSLATING into 'zh-Hant'': 金山 外
+ TRANSLATING into 'zh-Hant'': 金山 外 使用
+ TRANSLATING into 'zh-Hant'': 金山 外 斯 幼
+ TRANSLATING into 'zh-Hant'': 金山 外 使用
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 一
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 伊
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 伊 莉
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 到
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 保證 的
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 保證 的 聖靈
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 給
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 給 家
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 給
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 給 賤
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 給 賤 人
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 寄件人
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 寄件人 讓我
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 寄件人 讓我想一想
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 給 賤 人 幹 我想
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 寄件人 讓我 想到
+ TRANSLATING into 'zh-Hant'': 龍潭 外資 有 五十 塊 以內 要 吃 的 飽 真的 聖 梅 寄件人 讓我 想到 一個人
+ TRANSLATING into 'zh-Hant'': 米 格
+ TRANSLATING into 'zh-Hant'': 你怎
+ TRANSLATING into 'zh-Hant'': 你怎 麼
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得
+ TRANSLATING into 'zh-Hant'': 你怎 麼 找
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 知識
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 之
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北縣
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 存
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 隊長
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 最早
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 連
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 連 假
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價 的祝福
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價 的
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價 的 餐廳
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價 的 餐廳 是
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價 的 餐廳 是 由
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價 的 餐廳 是 有
+ TRANSLATING into 'zh-Hant'': 你怎 麼 搞得 還 不錯 我 剛 只是 在 臺北 西區 崔 找到 廉價 的 餐廳 是 有 可能
+ TRANSLATING into 'zh-Hant'': 打
+ TRANSLATING into 'zh-Hant'': 在 幹
+ TRANSLATING into 'zh-Hant'': 眼袋
+ TRANSLATING into 'zh-Hant'': 大概 如果
+ TRANSLATING into 'zh-Hant'': 大概 如果 你
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 剛剛
+ TRANSLATING into 'zh-Hant'': 大概 如果 你
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做
+ TRANSLATING into 'zh-Hant'': 大概 如果 你
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 工作室
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 工作室 在心
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信誼
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹嘛
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹嘛 花燈
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 名片
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天 的
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天 來看
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天 來 探討
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天 來 探討 這個
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天 來 探討 這個 問題
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天 來 探討 這個 問題 廉價 的 造
+ TRANSLATING into 'zh-Hant'': 大概 如果 你 裝做 是在 信義 計畫 區 在 幹 麻 發抖 明天 來 探討 這個 問題 廉價 的 造 詞
+ TRANSLATING into 'zh-Hant'': 臺灣
+ TRANSLATING into 'zh-Hant'': 晚餐
+ TRANSLATING into 'zh-Hant'': 公館
+ TRANSLATING into 'zh-Hant'': 晚餐
+ TRANSLATING into 'zh-Hant'': 晚餐 怎麼 用
+ TRANSLATING into 'zh-Hant'': 晚餐 就 沒有
+ TRANSLATING into 'zh-Hant'': 晚餐 能不能
+ TRANSLATING into 'zh-Hant'': 我們 才能 變
+ TRANSLATING into 'zh-Hant'': 我們 才能 變 住宿
+ TRANSLATING into 'zh-Hant'': 我們 才能 變 粗 怎麼辦
+ TRANSLATING into 'zh-Hant'': 晚餐 能不能 變速 怎麼
+ TRANSLATING into 'zh-Hant'': 晚餐 能不能 變速 怎麼 掛
+ TRANSLATING into 'zh-Hant'': 晚餐 能不能 變速 怎麼 刮
+ TRANSLATING into 'zh-Hant'': 晚餐 能不能 變速 怎麼 掛
+ TRANSLATING into 'zh-Hant'': 晚餐 能不能 變速 怎麼 掛 you
+ TRANSLATING into 'zh-Hant'': 打
+ TRANSLATING into 'zh-Hant'': 打死
+ TRANSLATING into 'zh-Hant'': 打
+ TRANSLATING into 'zh-Hant'': 打 食
+ TRANSLATING into 'zh-Hant'': 打 食 館
+ TRANSLATING into 'zh-Hant'': 打 十 塊
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣
+ TRANSLATING into 'zh-Hant'': 那時快 戰 網
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 載 於
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 確
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 確 幸
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六 折
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六 折 痕
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六 折
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六 折 很
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六 折 很 執著
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六 折 很 自責
+ TRANSLATING into 'zh-Hant'': 打死 會 這樣 我 還 在於 算命 只不過 是 小 缺陷 打 六 折 很 職責
+ TRANSLATING into 'zh-Hant'': 穴道
+ TRANSLATING into 'zh-Hant'': 竊盜罪
+ TRANSLATING into 'zh-Hant'': 竊盜險
+ TRANSLATING into 'zh-Hant'': 現在 到
+ TRANSLATING into 'zh-Hant'': 現在 到 新
+ TRANSLATING into 'zh-Hant'': 現在 到
+ TRANSLATING into 'zh-Hant'': 現在 到 清玉
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 服
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 服飾
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不錯
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不錯 的
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 部份 內政部
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 五
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 五 餐
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 文
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 文 網
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 文
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 文 懷孕
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 免 懷 秋 本 麗
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 免 懷 秋 本 麗 子
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 文 懷孕
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 免 懷 秋 本 麗 子 一
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 免 懷 秋 本 麗 子 義
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 免 懷 秋 本 麗 子 義 大
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 免 懷 珠 貝 里茲 吃 大便
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 免 懷 珠 貝 里茲 一代
+ TRANSLATING into 'zh-Hant'': 現在 到 信義 區 能否 找到 不 帥 內 的 午餐 文 懷疑 自己 帶 便當
+ TRANSLATING into 'zh-Hant'': 幹
+ TRANSLATING into 'zh-Hant'': 全 聯
+ TRANSLATING into 'zh-Hant'': 全 聯 徵
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找 早餐
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一下
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一下 麵店
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 會
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能 點
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能 連線
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能 連
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能 連 小菜
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能 減少 蔡 曉文 的 麵
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能 減少 蔡 曉文 的
+ TRANSLATING into 'zh-Hant'': 全 聯 徵 人 到 信義 區 的 外圍 找找看 找到 一 下面 電站 恐怕 不能 減少 蔡 曉文 的 面具
+ TRANSLATING into 'zh-Hant'': 六
+ TRANSLATING into 'zh-Hant'': 六 四
+ TRANSLATING into 'zh-Hant'': 六 四 卦
+ TRANSLATING into 'zh-Hant'': 六 四 款
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 套
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 政見 發表會
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 心
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 心 地址
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他人 cp 值
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 心 地址
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算 網
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算 網站
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算 晚餐 吃 泡麵
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算 晚餐 吃 泡麵 小
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算 晚餐 吃 泡麵 小 算盤
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算 晚餐 吃 泡麵 小鎮
+ TRANSLATING into 'zh-Hant'': 六 四 款 電玩 字典 趙 文卓 江浙 菜 左營 證件 他的 汐止 就算 晚餐 吃 泡麵 好 身材
+ TRANSLATING into 'zh-Hant'': 博
+ TRANSLATING into 'zh-Hant'': 活動
+ TRANSLATING into 'zh-Hant'': 火
+ TRANSLATING into 'zh-Hant'': 活動
+ TRANSLATING into 'zh-Hant'': 羅東 啄木鳥
+ TRANSLATING into 'zh-Hant'': 後宮 佐 木 理 莎
+ TRANSLATING into 'zh-Hant'': 木工 作 墨綠色 不了
+ TRANSLATING into 'zh-Hant'': 木工 作 墨綠色 不了 機
+ TRANSLATING into 'zh-Hant'': 木工 作 墨綠色 不了 機 館
+ TRANSLATING into 'zh-Hant'': 木工 作 墨綠色 不了 機
+ TRANSLATING into 'zh-Hant'': 木工 作 墨綠色 不了 一 罐
+ TRANSLATING into 'zh-Hant'': 木工 作 墨綠色 不了 一 罐 啤酒
+ TRANSLATING into 'zh-Hant'': 最近
+ TRANSLATING into 'zh-Hant'': 最近的
+ TRANSLATING into 'zh-Hant'': 最近
+ TRANSLATING into 'zh-Hant'': 最近 我的
+ TRANSLATING into 'zh-Hant'': 最近 我
+ TRANSLATING into 'zh-Hant'': 最近 我 老婆
+ TRANSLATING into 'zh-Hant'': 最近 我 找
+ TRANSLATING into 'zh-Hant'': 最近 我 打
+ TRANSLATING into 'zh-Hant'': 最近 我 老婆
+ TRANSLATING into 'zh-Hant'': 最近 我 老婆 俱樂部
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料
+ TRANSLATING into 'zh-Hant'': 最近 我 老婆 俱樂部
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 times
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 time
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近的
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 電玩
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 站
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 架 日期
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日 去處
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日 市場
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日 市場 立 家
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日 市場 地瓜
+ TRANSLATING into 'zh-Hant'': 最近 我 找 過 的 聯絡資料 苔 目 健康 最近 天 來到 了 新生 假日 市場 地瓜 葉
+ TRANSLATING into 'zh-Hant'': 臺 新
+ TRANSLATING into 'zh-Hant'': 臺 新 銀行
+ TRANSLATING into 'zh-Hant'': 企業 很
+ TRANSLATING into 'zh-Hant'': 企業 很 重要
+ TRANSLATING into 'zh-Hant'': 企業 很 重要 陰道
+ TRANSLATING into 'zh-Hant'': 企業 很 重要
+ TRANSLATING into 'zh-Hant'': 企業 很 重要 淫蕩
+ TRANSLATING into 'zh-Hant'': 企業 很 重要 業單位
+ TRANSLATING into 'zh-Hant'': 企業 很 重要 耶誕 怪獸
+ TRANSLATING into 'zh-Hant'': 企業 很 重要 耶誕 鬼
+ TRANSLATING into 'zh-Hant'': 企業 很 重要 耶誕 鬼 上身
+ TRANSLATING into 'zh-Hant'': 臉
+ TRANSLATING into 'zh-Hant'': 免費
+ TRANSLATING into 'zh-Hant'': 梁
+ TRANSLATING into 'zh-Hant'': 梁 凱偉
+ TRANSLATING into 'zh-Hant'': 帶 我
+ TRANSLATING into 'zh-Hant'': 帶 我 去
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪裡
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一隻
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 版
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 版
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 版 攻略
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 版
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 六 代
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 六 代 健保
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 六 代 健保
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 六 代 健保 費
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 六 代 健保
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 訓 局
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 順
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 順 機會
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 盒 升級
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 勝 基 會
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 勝 基 會 在
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 勝 基 會 分店
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 勝 基 會 賺
+ TRANSLATING into 'zh-Hant'': 帶 我 去 哪 一支 辦公 了 再見 鋼琴 勝 基 會 在 旅途
+ TRANSLATING into 'zh-Hant'': 電量
+ TRANSLATING into 'zh-Hant'': 鄭
+ TRANSLATING into 'zh-Hant'': 石 蓮 園
+ TRANSLATING into 'zh-Hant'': 正良
+ TRANSLATING into 'zh-Hant'': 正良 園區
+ TRANSLATING into 'zh-Hant'': 石 蓮 園
+ TRANSLATING into 'zh-Hant'': 石 良緣 晚餐
+ TRANSLATING into 'zh-Hant'': 石 良緣 文昌 小吃
+ TRANSLATING into 'zh-Hant'': 正良 原罪 之 冠 昌 守城
+ TRANSLATING into 'zh-Hant'': 石 良緣 晚餐 吃 肉粽
+ TRANSLATING into 'zh-Hant'': 石 良緣 晚餐 吃 肉
+ TRANSLATING into 'zh-Hant'': 石 良緣 晚餐 吃 肉粽
+ TRANSLATING into 'zh-Hant'': 石 良緣 文昌 小吃 有 這麼
+ TRANSLATING into 'zh-Hant'': 正良 原罪 之 冠 昌 守城 月 真的
+ TRANSLATING into 'zh-Hant'': 正良 原罪 之 冠 昌 守城 月 真的 可以
+ TRANSLATING into 'zh-Hant'': 正良 原罪 之 冠 昌 守城 月 真的 可以 生
+ TRANSLATING into 'zh-Hant'': 正良 原罪 之 冠 昌 守城 月 真的 可以 申辦
+ TRANSLATING into 'zh-Hant'': 正良 原罪 之 冠 昌 守城 月 真的 可以 生 完 多久
+ TRANSLATING into 'zh-Hant'': 今天
+ TRANSLATING into 'zh-Hant'': 今天 是
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜六
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中文
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 裝
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友一
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 越
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 日
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 石
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 送醫
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最 便宜
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐廳
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐 二 姐
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐 二 姐 自
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐 而且 這邊 伊
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐 而且 這邊 伊 莉
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐 而且 這邊
+ TRANSLATING into 'zh-Hant'': 今天 是 禮拜天 中午 時間 跟 朋友 說 在 松 菸 最便宜的 餐 而且 這邊 一定要
+ TRANSLATING into 'zh-Hant'': 晚餐
+ TRANSLATING into 'zh-Hant'': 晚餐 吃
+ TRANSLATING into 'zh-Hant'': 晚餐 之
+ TRANSLATING into 'zh-Hant'': 晚餐 吃
+ TRANSLATING into 'zh-Hant'': 晚餐 吃 簡單
+ TRANSLATING into 'zh-Hant'': 晚餐 吃 簡單 一
+ TRANSLATING into 'zh-Hant'': 現在
+ TRANSLATING into 'zh-Hant'': 現在 幾
+ TRANSLATING into 'zh-Hant'': 短髮
+ TRANSLATING into 'zh-Hant'': 現在
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 蟲
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 跟 同學
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會 新浪
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會 新浪 微
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會 新浪 微 博
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會 新浪 微
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會 新浪 微 博 會
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會 新浪 微 博 會 破壞
+ TRANSLATING into 'zh-Hant'': 現在 敦化南路 餐廳 有 個 同學會 新浪 微 博 會 破壞 不用 出錢
+ TRANSLATING into 'zh-Hant'': 金庸
+ TRANSLATING into 'zh-Hant'': 喵
+ TRANSLATING into 'zh-Hant'': 妙 妙
+ TRANSLATING into 'zh-Hant'': 妙妙妙 給 郭
+ TRANSLATING into 'zh-Hant'': 妙 妙
+ TRANSLATING into 'zh-Hant'': 喵 喵 一 站
+ TRANSLATING into 'zh-Hant'': 妙 妙
+ TRANSLATING into 'zh-Hant'': 妙 妙 一家 給
+ TRANSLATING into 'zh-Hant'': 妙 妙
+ TRANSLATING into 'zh-Hant'': 五
+ TRANSLATING into 'zh-Hant'': 五 三
+ TRANSLATING into 'zh-Hant'': 五 三 四
+ TRANSLATING into 'zh-Hant'': 午餐時間
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很多
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 早午餐
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 三 零
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 三 零 四
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 三 零 四 一
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 私人
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 莓 機
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 幾個
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 幾個 縣
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 給 個人
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 幾個 人 資
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 幾個 人 字 變大
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 幾個 人 資 蓋
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 幾個 人 資 蓋 大樓
+ TRANSLATING into 'zh-Hant'': 午餐時間 掉 了 很 容易 在 附近 找 個 餐廳 是 因為 沒 幾個 人 字 變大 了 那 魯 肉 飯
+ TRANSLATING into 'zh-Hant'': 雅虎
+ TRANSLATING into 'zh-Hant'': 假髮
+ TRANSLATING into 'zh-Hant'': 世界
+ TRANSLATING into 'zh-Hant'': 假髮
+ TRANSLATING into 'zh-Hant'': 打 給
+ TRANSLATING into 'zh-Hant'': 打 給 佳里
+ TRANSLATING into 'zh-Hant'': 家裡 有
+ TRANSLATING into 'zh-Hant'': 家裡
+ TRANSLATING into 'zh-Hant'': 家裡 有
+ TRANSLATING into 'zh-Hant'': 家裡
+ TRANSLATING into 'zh-Hant'': 家裡 有色
+ TRANSLATING into 'zh-Hant'': 家裡 有
+ TRANSLATING into 'zh-Hant'': 家裡 有 政策
+ TRANSLATING into 'zh-Hant'': 我有
+ TRANSLATING into 'zh-Hant'': 我有 一隻
+ TRANSLATING into 'zh-Hant'': 我有 一 周
+ TRANSLATING into 'zh-Hant'': 我有 一 週
+ TRANSLATING into 'zh-Hant'': 我有 一 週 美食
+ TRANSLATING into 'zh-Hant'': 我有 一中 美食
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 比例 桌布
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 了
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 歌詞
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 了 一 週 每天 吃
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 歌詞
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 了 一 週 每天 吃 零
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 了 一 週 每天 吃 禮拜
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 了 一 週 每天 吃 禮拜 幾
+ TRANSLATING into 'zh-Hant'': 我有 一 週 沒 水 你 就 不知道 了 一 週 每天 吃 零 半 起床
+ TRANSLATING into 'zh-Hant'': 看
+ TRANSLATING into 'zh-Hant'': 碳
+ TRANSLATING into 'zh-Hant'': 幹 這一
+ TRANSLATING into 'zh-Hant'': 幹 這一 週
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的戀人
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 一
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 一百
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元 圓圓
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 照顧
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 找
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元 圓圓 趙
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元 圓圓 趙 桂枝 乾
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元 圓圓 趙 桂枝
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元 圓圓 趙 桂枝 天氣
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元 圓圓 趙 桂枝 乾 製作
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 百元 圓圓 趙 桂枝 天氣
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 寮國
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 寮 腳
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 寮
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解 如何
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解 如何 申請
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解 如何 省錢
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解 如何 聲 尖 石
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解 如何 省錢 帶 你
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解 如何 省錢 帶 你 知道
+ TRANSLATING into 'zh-Hant'': 幹 這一 週 的 一天 壹 佰 圓 緣 園 超過 之前 說 的 挑戰 我是 未來 更 了解 如何 省錢 帶 你 知道 嗎
+ TRANSLATING into 'zh-Hant'': 無限
+ TRANSLATING into 'zh-Hant'': 無線
+ TRANSLATING into 'zh-Hant'': 無限 洛斯
+ TRANSLATING into 'zh-Hant'': 無限 洛
+ TRANSLATING into 'zh-Hant'': 無線 座
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天一天
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一 簡易
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一 簡易 版
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一 簡易 版
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 萬 次
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 萬 四
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 萬 四 零
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 幾
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 九 一
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 料理
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 了
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 英文
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 黑森
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多久
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 黑森 林 多
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會 怎麼辦
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會 怎麼
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會 怎麼 花
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會 怎麼 花 藝 村
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會 怎麼 花
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會 怎麼 花 藝 村 千
+ TRANSLATING into 'zh-Hant'': 無限 弱勢 家庭 真的 就是 一天 一百 零 一個 禮拜 街 一百 塊 廟 怎麼 用 如果 因為 吃 的 很 便宜 給 深層 多 錢 你 會 怎麼 花 藝 村 千 最主要
+ TRANSLATING into 'zh-Hant'': 民視
+ TRANSLATING into 'zh-Hant'': 明治
+ TRANSLATING into 'zh-Hant'': 你是誰
+ TRANSLATING into 'zh-Hant'': 你
+ TRANSLATING into 'zh-Hant'': 你 省錢
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的 片刻
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的 片
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的 貼
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的 配備
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的 飄泊
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的 票
+ TRANSLATING into 'zh-Hant'': 你 省錢 最好 的 飄泊 是什么
+ TRANSLATING into 'zh-Hant'': 很想
+ TRANSLATING into 'zh-Hant'': 南 響 子
+ TRANSLATING into 'zh-Hant'': 很想
+ TRANSLATING into 'zh-Hant'': 很想 知道
+ TRANSLATING into 'zh-Hant'': 很想 知道 大
+ TRANSLATING into 'zh-Hant'': 很想 知道 大 樂
+ TRANSLATING into 'zh-Hant'': 很想 知道 大家樂
+ TRANSLATING into 'zh-Hant'': 很想 知道 大 樂 地
+ TRANSLATING into 'zh-Hant'': 很想 知道 大 樂 的
+ TRANSLATING into 'zh-Hant'': 娜
+ TRANSLATING into 'zh-Hant'': 內湖
+ TRANSLATING into 'zh-Hant'': 那
+ TRANSLATING into 'zh-Hant'': 那 我們
+ TRANSLATING into 'zh-Hant'': 那 我們 就
+ TRANSLATING into 'zh-Hant'': 那 我們 就在
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方
+ TRANSLATING into 'zh-Hant'': 那 我們 就 在下 方
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的 留言
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的 流言
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的 留言
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的 留言 劍
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的 留言 劍 魔
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的 留言 劍 魔 之
+ TRANSLATING into 'zh-Hant'': 那 我們 就在 下方 的 留言 劍 魔 之 樓
+CANCELED: Reason=EndOfStream
+
+Session stopped event.
+
+Stop translation.
+
+Recognition done. Your Choice (0: Stop): 
